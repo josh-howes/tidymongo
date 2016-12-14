@@ -1,1 +1,3 @@
-tidymongo.egg-info/*
+tidymongo.egg-info/
+*.pyc
+.idea/
